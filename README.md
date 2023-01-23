@@ -21,14 +21,22 @@ O NLW (Next Level Week) é um evento exclusivo e gratuito, promovido pela Rocket
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- Vite
 - Typescript
 - NodeJS
 - ReactJS
 - React Native
 - Expo
 - Tailwind CSS
+- PostCSS
 - Prisma
 - Fastify
+- Day.js
+- Zod
+- Radix
+- Phosphor
+- CLSX
+- Axios
 - Git e Github
 - Figma
 
