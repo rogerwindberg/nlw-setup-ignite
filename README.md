@@ -1,7 +1,7 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Habits - Trilha Ignite </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+O NLW (Next Level Week) é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
@@ -9,10 +9,6 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
@@ -25,12 +21,22 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- Vite
 - Typescript
 - NodeJS
 - ReactJS
 - React Native
 - Expo
 - Tailwind CSS
+- PostCSS
+- Prisma
+- Fastify
+- Day.js
+- Zod
+- Radix
+- Phosphor
+- CLSX
+- Axios
 - Git e Github
 - Figma
 
@@ -48,4 +54,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Roger Windberg :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<p align="center">Feito com ♥ by Roger Windberg</p
