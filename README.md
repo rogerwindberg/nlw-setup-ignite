@@ -27,6 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React Native
 - Expo
 - Tailwind CSS
+- Prisma
+- Fastify
 - Git e Github
 - Figma
 
